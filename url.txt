@@ -1,1 +1,1 @@
-https://julie-quiet-wanted-mailman.trycloudflare.com
+https://api.trycloudflare.com
